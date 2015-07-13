@@ -1,7 +1,8 @@
-# import modules
-import json
-import requests
+# import built-in modules
 import os.path
+import json
+import requests # install with 'pip install requests'
+
 # import config file (edit the kimonoconfig.py.sample file and save as kimonoconfig.py)
 from kimonoconfig import kimono
 
